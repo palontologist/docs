@@ -1,8 +1,11 @@
 ---
 title: GitHub Codespaces overview
+
 shortTitle: Overview
+
 product: '{% data reusables.gated-features.codespaces %}'
-intro: 'This guide introduces {% data variables.product.prodname_codespaces %} and provides details on how it works and how to use it.'
+
+  intro: 'This guide introduces {% data variables.product.prodname_codespaces %} and provides details on how it works and how to use it.'
 allowTitleToDifferFromFilename: true
 redirect_from:
   - /codespaces/codespaces-reference/about-codespaces
@@ -15,7 +18,7 @@ versions:
   ghec: '*'
 type: overview
 topics:
-  - Codespaces
+  1. Codespaces
 ---
 
 ## What is a codespace?
